@@ -1,0 +1,17 @@
+{
+    "plugins": [
+        "disqus",
+        "ga",
+        "yahei",
+        "katex",
+        "richquotes"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "prog-notes"
+        },
+        "ga": {
+            "token": "UA-32317667-6"
+        }
+    }
+}
